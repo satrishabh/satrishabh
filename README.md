@@ -4,5 +4,6 @@ I am a Software Developer, specialising in design and implementation of Software
 
 [![Rishabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=satrishabh)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/i.mishra.rishabh@gmail.com/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rishabh-mishra-748a82153/)  
+
 
